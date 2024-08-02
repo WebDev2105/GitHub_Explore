@@ -1,3 +1,5 @@
-#ignore all files
+#ignore all file
 
 *.js
+
+!app.js
