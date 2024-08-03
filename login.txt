@@ -1,0 +1,2 @@
+adding new function to login method
+adding new function to logout method
